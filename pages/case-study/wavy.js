@@ -29,7 +29,7 @@ export default function Wavy() {
       </Head>
 
       <div className={styles.desktopContainer}>
-        <div className={styles.screenshots}>insert screenshots</div>
+        <div className={styles.screenshots}></div>
 
         <div className={styles.title}>Title: Wavy, Should I Invest?.</div>
 

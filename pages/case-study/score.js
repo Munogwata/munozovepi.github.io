@@ -27,7 +27,7 @@ export default function Score() {
 
       <div className={styles.desktopContainer}>
         <div>
-          <div className={styles.screenshots}>insert screenshots</div>
+          <div className={styles.screenshots}></div>
 
           <div className={styles.title}>
             Title: Score, build your credit score.
